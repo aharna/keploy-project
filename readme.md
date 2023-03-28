@@ -1,9 +1,9 @@
 # GoLang CRUD operation App 🚀
 ## Using Gin - Gonic framework, MongoDB Atlas & Keploy for testing 👀
 
-- ✨By Aharna Haque✨
+- By Aharna Haque✨
 
-- Star🌟 this repository and fork🍴 to save it to your repos for easy access.
+
 
 
 
@@ -18,9 +18,6 @@ Preview of the project running 🚀 :
 
 <img width="1142" alt="Screenshot 2023-03-07 at 3 33 20 PM" src="https://user-images.githubusercontent.com/102364606/223393822-5563b5bf-a76d-4b31-b32e-fe535cab1589.png">
 
-Preview of Keploy capturing test cases 🔍 : 
-
-<img width="1440" alt="Screenshot 2023-03-07 at 3 32 41 PM" src="https://user-images.githubusercontent.com/102364606/223393918-69b05994-224c-4974-a3be-9de815185ba4.png">
 
 ### Running keploy in test mode to get test coverage
 
